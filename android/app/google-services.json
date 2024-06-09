@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464312891637",
+    "firebase_url": "https://new-battery-app-dfc99-default-rtdb.firebaseio.com",
+    "project_id": "new-battery-app-dfc99",
+    "storage_bucket": "new-battery-app-dfc99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464312891637:android:ba329c6f25a273e31fedbc",
+        "android_client_info": {
+          "package_name": "com.example.battery_system_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9h6tK2Lhu39QtTGzBA650iQtuhZi8PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
